@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAVVVVBQAAAFBVVVVVAAAAVfVVVVUFAFBV/1/1VVUAUFX1VfX1VQBQVVVV9f9VAFBVVVX19VUAUFVVVfX/VQBQVfVV9fVVAFBV/1/1/1UAAFX1VfX1BQAAUFVVVVUAAAAAVVVVBQAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "dieFresse"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAC7RAAAAAAAu11NAAAAALsjU00AAAC7XSJSTQAAu11XI10EALA9MlVV1QS7SyUiVVfVBEu7NTJVVUUAS7RVVSNTTQBLtFRXIlJNALBES1UjU00AAEvkVFXVBAAAsETuVd0EAAAAS+Te7QAAAACw5O5OAAAAAADu7gQAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PizzaSalame"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
